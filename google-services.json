@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "784662806408",
+    "firebase_url": "https://rost-72a39.firebaseio.com",
+    "project_id": "rost-72a39",
+    "storage_bucket": "rost-72a39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784662806408:android:5522f0ede0b813ef3fc43d",
+        "android_client_info": {
+          "package_name": "com.example.rostapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784662806408-imo8nl2eb0171hq2sgmsfqkqu3f9ta7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rostapp",
+            "certificate_hash": "986244786dee52ac42e140781df7d29e5b82a749"
+          }
+        },
+        {
+          "client_id": "784662806408-oji5emvct088kb31rr8jrnodltoukjjj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rostapp",
+            "certificate_hash": "478da145a80265fccda606cfd8bd34c4640d722f"
+          }
+        },
+        {
+          "client_id": "784662806408-mthhce2pkne76mnrkqun8ubvjlfrndbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW3pMezADaeRywamOvB0yJ9tCsHMtRpns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784662806408-mthhce2pkne76mnrkqun8ubvjlfrndbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
